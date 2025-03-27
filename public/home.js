@@ -117,7 +117,16 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>FedEx Support is a customer service resource provided by FedEx to assist customers with their shipping needs. Here are some key aspects of FedEx Support:
+
+Support Topics:
+1. *Tracking*: Get help with tracking packages, including tracking numbers and delivery status.
+2. *Shipping*: Receive assistance with shipping rates, delivery times, and packaging.
+3. *Claims*: File a claim for damaged, lost, or missing packages.
+4. *Returns*: Get help with returning packages, including printing return labels.
+5. *Technical Issues*: Troubleshoot technical problems with the FedEx website or mobile app.
+
+By reaching out to FedEx Support, you can get the help you need to resolve issues, answer questions, and make the most of your shipping experience..</p>
           </div>
         `
         break
